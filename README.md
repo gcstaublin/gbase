@@ -1,7 +1,7 @@
 gbase
 =====
 
-An intellectual exercise in creating a very simple scss framework for making Internet things.
+An intellectual exercise in creating a very simple scss library for making Internet things.
 
 Currently, there's not much to look at.
 
